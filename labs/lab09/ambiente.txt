@@ -1,0 +1,7 @@
+equipe: artpop
+aluno: BRKHugz
+data: 2026-11-21 19:53:21
+distro: Red Hat Enterprise Linux release 9.1 (Plow)
+kernel: 5.14.0-162.6.1.el9_1.x86_64
+nucleos: 4
+memoria_total: 5.5Gi
